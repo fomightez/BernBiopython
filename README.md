@@ -1,6 +1,6 @@
 # developmentBiopython-binder
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/BernBiopython/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/BernBiopython/master?filepath=cl_demo-binder%20Using%20Biopython%20PDB%20Header%20Parser%20to%20get%20missing%20residues.ipynb)
 
 *tl;dr:*  
 Click any `launch binder` badge on this page to run Jupyter environment where you can inport a developmental version of Biopython .
@@ -29,5 +29,5 @@ So I cloned [Bernhard10's personal fork of biopython](https://github.com/Bernhar
 
 Click this button below to begin using it:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/BernBiopython/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/BernBiopython/master?filepath=cl_demo-binder%20Using%20Biopython%20PDB%20Header%20Parser%20to%20get%20missing%20residues.ipynb)
 
