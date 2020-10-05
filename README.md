@@ -1,3 +1,5 @@
+## UPDATE: THIS IS NO LONGER NEEDED AS 'parsing of PDB headers for missing residues' HAS BEEN MOVED FROM DEVELOPMENT VERISON OF BIOPYTHON TO CURRENT VERSION. SEE [here](https://github.com/fomightez/cl_demo-binder) for a repo where you can launch sessions with this ability ready and indeed demonstrated  in the notebook entitled `Using Biopython PDB Header Parser to get missing residues.ipynb` that you can select once you launch a session. (Leaving this here as it reminds me how I was able to test and develop and later move.)
+
 # developmentBiopython-binder
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/BernBiopython/master?filepath=cl_demo-binder%20Using%20Biopython%20PDB%20Header%20Parser%20to%20get%20missing%20residues.ipynb)
@@ -8,6 +10,8 @@ Click any `launch binder` badge on this page to run Jupyter environment where yo
 ------
 
 ***Developmental version of Biopython***
+
+## UPDATE: THIS IS NO LONGER NEEDED AS 'parsing of PDB headers for missing residues' HAS BEEN MOVED FROM DEVELOPMENT VERISON OF BIOPYTHON TO CURRENT VERSION. SEE [here](https://github.com/fomightez/cl_demo-binder) for a repo where you can launch sessions with this ability ready and indeed demonstrated  in the notebook entitled `Using Biopython PDB Header Parser to get missing residues.ipynb` that you can select once you launch a session. (Leaving this here as it reminds me how I was able to test and develop and later move.)
 
 Adds parsing of PDB headers for missing residues.
 
